@@ -1,0 +1,17 @@
+Repos_list_url 
+	contains the command of all 22k+ projects which can becloned
+Getting_logs.BAT
+	contains code to traverse eacch cloned repository and generating log in main directory
+Java
+	Program to read all the output of logs and convert them to structured data
+SQL
+	BULK IMPORT - to load data from all files into a table
+	Data Cleaning - to clean the data and remove unwanted information
+	DataProcessing - generating features for tuckfactor and exploring sql data
+	TF calculation - generating Bus factor/Truck Factor
+R
+	Exploration - exploring data and building some visualizations
+	Prediction - run supervised model to predict to predict active status of project.
+
+Future 
+	R shiny dashboard work which is yet to be completed
